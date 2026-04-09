@@ -1,3 +1,4 @@
 Hello
 This is a test file
-CN will end me
+These are test messages
+This is used to check the performance of the chat room
